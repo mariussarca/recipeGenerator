@@ -59,7 +59,7 @@ To set up and run the project locally, follow these steps:
    npm start
    ```  
 
-6. Open your browser and navigate to `http://localhost:3000` to view the app.  
+6. Open your browser and navigate to `http://localhost:5137` to view the app.  
 
 ## How to Use  
 1. Add ingredients by typing them into the input field and clicking the "Add ingredient" button.  
